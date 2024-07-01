@@ -50,7 +50,7 @@ This project analyzes sales data to provide insights into annual performance of 
 
 ## How to Use
 
-1. Open the Tableau dashboard.
+1. Open the Tableau dashboard via this link: https://public.tableau.com/app/profile/esther.atakpa/viz/SalesAnalysis_17197765335680/BusinessAnalysis
 2. Explore the visualizations to gain insights into sales performance.
 3. Use filters to focus on specific representatives or time periods.
 
