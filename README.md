@@ -56,4 +56,4 @@ This project analyzes sales data to provide insights into annual performance of 
 
 ## Conclusion
 
-This analysis provides valuable insights into the annual performance of sales representatives, aiding in strategic decision-making and performance improvement.
+The data indicates a correlation between the number of sales and the duration of sales periods (i.e., the number of months during which sales occurred) and the bonuses received by the sales representatives. This analysis provides valuable insights into the annual performance of sales representatives, aiding in strategic decision-making and performance improvement.
